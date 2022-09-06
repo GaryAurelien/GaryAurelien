@@ -1,7 +1,6 @@
 <h1 align="center">Salut 👋, je suis Aurélien Gary</h1>
 <h3 align="center">Un développeur passionné !!</h3>
 
-<p align="left"> <img src="https ://komarev.com/ghpvc/?username=garyaurelien&label=Profile%20views&color=0e75b6&style=flat" alt="garyaurelien" /> </p>
 
 - 👨‍💻 Tous mes projets sont disponibles sur [https://aurelien- gary.herokuapp.com/](https://aurelien-gary.herokuapp.com/)
 
